@@ -6,9 +6,13 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/fundo.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "green"
+    },
+    "androidStatusBar": {
+      "transparency ":true
+      
     },
     "updates": {
       "fallbackToCacheTimeout": 0
